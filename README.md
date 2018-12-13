@@ -71,5 +71,15 @@ with a link to the fossi-fuel industry:
 - lafargeholcim
 - suncor
 
+And I looked for the following NGOs that have strong ties to the fossil-fuel
+industry:
+
+- european union of the natural gas industry
+- international association of oil and gas producers
+- chamber of commerce of the united states of america
+- competitive enterprise institute
+- committee for a constructive tomorrow
+- international council of chemical associations
+
 **Results:** Identified **133** participants linked to the fossil-fuel
 industry.
