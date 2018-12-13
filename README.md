@@ -81,5 +81,5 @@ industry:
 - committee for a constructive tomorrow
 - international council of chemical associations
 
-**Results:** Identified **133** participants linked to the fossil-fuel
+**Results:** Identified **153** participants linked to the fossil-fuel
 industry.
