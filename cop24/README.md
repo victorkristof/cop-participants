@@ -1,9 +1,9 @@
 # COP24 Participants
 
 I provide a Python notebook to extract statistics on the participants from
-the [provisional list of participants (= accredited persons) at
-COP24](https://unfccc.int/sites/default/files/resource/PLOP.pdf). Here are
-a some statistics.
+the [provisional list of participants]
+(https://unfccc.int/sites/default/files/resource/PLOP.pdf) (i.e., the accredited
+persons) at COP24. Here are a some statistics.
 
 ### Top-20 Parties with most participants
 
